@@ -1,8 +1,8 @@
 <?php
 
-$servername = "localhost";
-$username = "root";
-$password = "";
+$servername = "devops.cqmdt0h7v6tb.eu-west-1.rds.amazonaws.com";
+$username = "admin";
+$password = "admin123";
 $db = "onlineshop";
 
 // Create connection
